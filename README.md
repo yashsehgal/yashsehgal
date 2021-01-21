@@ -1,4 +1,4 @@
-## Hey Gorgeous People 👋
+## Hey, my gorgeous friends on GitHub 👋
 
 **A short glimpse about me**
 
