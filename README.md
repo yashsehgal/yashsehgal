@@ -6,9 +6,9 @@ Hello! I am Yash Sehgal. A Computer Science Student based in Indore, MP, India
 
 I love to create frontend websites and applications, or anything in between. My goal is to always build products that provide pixel-perfect, best performance experiences. With this, I also love scripting backend services using Javascript and Python. Currently, I am learning Full Stack Development by myself and specializing in Artificial Intelligence formerly.
 
-![Profile Banner](profileBanner.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsehgal&color=brightgreen" alt="yashsehgal" /> </p>
 
-[![Yash Sehgal's github stats](https://github-readme-stats.vercel.app/api?username=yashsehgal)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Banner](profileBanner.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsehgal&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
