@@ -1,7 +1,7 @@
 ## Hey There, I hope you are doing well.
 **I am [Yash Sehgal](https://yashsehgal.github.io/portfolio_v_2), I am a Developer, A Designer and A Former Computer Science Student**
 
-<div style="display: flex;">
+<div style="display: flex; margin-bottom: 24px;">
 <a href="https://www.linkedin.com/in/yash-sehgal-55b7711a4/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-right: 8px;" />
 </a>
@@ -21,8 +21,6 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" style="margin-right: 8px;"/>
 </a>
 </div>
-
-<br />
 
 **About Me**
 - I am a Computer Science Student who's pursuing a Computer Science Degree in Specialization with Artificial Intelligence (AI), Hell Yeah! 🔥
