@@ -22,6 +22,8 @@
 </a>
 </div>
 
+<br>
+
 > **About Me**
 - I am a Computer Science Student who's pursuing a Computer Science Degree in Specialization with Artificial Intelligence (AI), Hell Yeah! 🔥
 - I love to try building projects ⛏️ which can be converted to products and can help other developers or people, in general. I also like to guide people as per the basis of my knowledge, also whether it's about Coding, Software Development, Designing or Blockchain, Crypto-Currency, Neural Networks or NFTs, I will be there in the discussion. Alright About Me!!
