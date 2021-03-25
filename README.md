@@ -22,7 +22,7 @@
 </a>
 </div>
 
-<br>
+<br> <br>
 
 > **About Me**
 - I am a Computer Science Student who's pursuing a Computer Science Degree in Specialization with Artificial Intelligence (AI), Hell Yeah! 🔥
