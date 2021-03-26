@@ -26,7 +26,7 @@
 
 > **About Me**
 - I am a Computer Science Student who's pursuing a Computer Science Degree in Specialization with Artificial Intelligence (AI), Hell Yeah! 🔥
-- I love to try building projects ⛏️ which can be converted to products and can help other developers or people, in general. I also like to guide people as per the basis of my knowledge, also whether it's about Coding, Software Development, Designing or Blockchain, Crypto-Currency, Neural Networks or NFTs, I will be there in the discussion. Alright About Me!!
+- I love to try building projects ⛏️ which can be converted to products and can help other developers or people, in general. I also like to guide people as per the basis of my knowledge, also whether it's about Coding, Software Development, Designing or Blockchain, Crypto-Currency, Neural Networks or NFTs, I will be there in the discussion. 
 - Languages 💻  which I like to work with are as follows: C/C++, Python, JavaScript, HTML, CSS/SCSS.
 - Tools/Technologies 💻  I use on my Daily Basis: Adobe XD, Figma, Git, GitHub/BitBucket, NodeJS.
 - Also, When I am lazy/not working, I love to spend time on FL Studio and make music. Also, I have some decent sketching skills.
