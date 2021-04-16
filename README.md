@@ -33,7 +33,7 @@
 
 > ### Some Personal Promotion Now
 - Visit [@The DesignSystems](https://bit.ly/DesignSystemsOSSGitHub) and Try using The [Eccentric Touch](https://designsystemsoss.github.io/eccentrictouch.website.frontend/)
-- Also, We would love to see you as an Open Source Contributor at [The DesignSystems](https://bit.ly/DesignSystemsOSSGitHub), If you are looking to connect with different people who are like-minded as you then surely join 👾 [The DesignSystems Community Server](https://bit.ly/TDesignSystemsDiscord).
+- Also, We would love to see you as an Open Source Contributor at [The DesignSystems](https://bit.ly/DesignSystemsOSSGitHub), If you are looking to connect with different people who are like-minded as you then surely join 👾 [The DesignSystems Community Server](https://forms.gle/r1Wj9AykkqycboxEA).
 - Follow The DesignSystems on Social Media Platforms to be updated all the time. Follow on [Twitter](https://twitter.com/TDesignSystems) & Follow on [LinkedIn](https://www.linkedin.com/company/designsystemsoss) too. Will see you there 😀
 
 **Once Again. Have a nice day ahead! 🤗**
