@@ -5,12 +5,12 @@
 
 <div id="social-icons">
 <a href="https://www.linkedin.com/in/yash-sehgal-55b7711a4/" target="_blank" class="footer-icons"><i class="fab fa-linkedin" style="color: rgb(102, 102, 255); font-size: 24px;"></i></a>
-<a href="https://github.com/yashsehgal" target="_blank" class="footer-icons"><i class="fab fa-github" style="color: rgb(102, 102, 255); font-size: 24px;"></i></a>
-<a href="https://www.instagram.com/sehgalyash_/" target="_blank" class="footer-icons"><i class="fab fa-instagram" style="color: rgb(102, 102, 255); font-size: 24px;"></i></a>
-<a href="https://twitter.com/YashSeh90869786" target="_blank" class="footer-icons"><i class="fab fa-twitter" style="color: rgb(102, 102, 255); font-size: 24px;"></i></a>
-<a href="https://www.behance.net/yashsehgaleee3" target="_blank" class="footer-icons"><i class="fab fa-behance" style="color: rgb(102, 102, 255); font-size: 24px;"></i></a>
-<a href="https://medium.com/@yashsehgal.study" target="_blank" class="footer-icons"><i class="fab fa-medium" style="color: rgb(102, 102, 255); font-size: 24px;"></i></a>
-<a href="https://dev.to/yashsehgal" target="_blank" class="footer-icons"><i class="fab fa-dev" style="color: rgb(102, 102, 255); font-size: 24px;"></i></a>
+<a href="https://github.com/yashsehgal" target="_blank" class="footer-icons"><i class="fab fa-github" style="font-size: 24px;"></i></a>
+<a href="https://www.instagram.com/sehgalyash_/" target="_blank" class="footer-icons"><i class="fab fa-instagram" style="font-size: 24px;"></i></a>
+<a href="https://twitter.com/YashSeh90869786" target="_blank" class="footer-icons"><i class="fab fa-twitter" style="font-size: 24px;"></i></a>
+<a href="https://www.behance.net/yashsehgaleee3" target="_blank" class="footer-icons"><i class="fab fa-behance" style="font-size: 24px;"></i></a>
+<a href="https://medium.com/@yashsehgal.study" target="_blank" class="footer-icons"><i class="fab fa-medium" style="font-size: 24px;"></i></a>
+<a href="https://dev.to/yashsehgal" target="_blank" class="footer-icons"><i class="fab fa-dev" style="font-size: 24px;"></i></a>
 </div>
 
 <br> <br>
