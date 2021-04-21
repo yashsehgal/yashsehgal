@@ -31,6 +31,8 @@
 
 ![Profile Views](https://camo.githubusercontent.com/cf3a35c98380f85c7a119cf97bcedd65c5e8e26ac76f1dcd47b2d96f7c4bdb95/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7961736873656867616c26636f6c6f723d627269676874677265656e)
 
+![yashsehgal's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashsehgal&theme=dracula)
+
 ### Some Personal Promotion Now
 - Visit [@The DesignSystems](https://bit.ly/DesignSystemsOSSGitHub) and Try using The [Eccentric Touch](https://designsystemsoss.github.io/eccentrictouch.website.frontend/)
 - Also, We would love to see you as an Open Source Contributor at [The DesignSystems](https://bit.ly/DesignSystemsOSSGitHub), If you are looking to connect with different people who are like-minded as you then surely join 👾 [The DesignSystems Community Server](https://forms.gle/r1Wj9AykkqycboxEA).
