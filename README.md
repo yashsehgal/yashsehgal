@@ -34,7 +34,7 @@
 ![yashsehgal's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashsehgal&theme=dracula)
 
 ### Some Personal Promotion Now
-- Visit [@The DesignSystems](https://bit.ly/DesignSystemsOSSGitHub) and Try using The [Eccentric Touch](https://designsystemsoss.github.io/eccentrictouch.website.frontend/)
+- Visit ![@The DesignSystems](https://avatars.githubusercontent.com/u/77277573?s=200&v=4) and Try using The [Eccentric Touch](https://designsystemsoss.github.io/eccentrictouch.website.frontend/)
 - Also, We would love to see you as an Open Source Contributor at [The DesignSystems](https://bit.ly/DesignSystemsOSSGitHub), If you are looking to connect with different people who are like-minded as you then surely join 👾 [The DesignSystems Community Server](https://discord.gg/PUG5XZD26r).
 - Follow The DesignSystems on Social Media Platforms to be updated all the time. Follow on [Twitter](https://twitter.com/TDesignSystems) & Follow on [LinkedIn](https://www.linkedin.com/company/designsystemsoss) too. Will see you there 😀
 
