@@ -6,7 +6,7 @@ Welcome to my GitHub Profile, It's great to see you people :)
   <img src="banner.png" width="900px" height="100%">
 </div>
 
-Let's talk a bit about myself,  I am Yash Sehgal and computer science undergrad pursuing engineering from [Medicaps University](https://medicaps.ac.in), Indore (India). I love to contribute to Open Source projects and mentor folks for the same. I am an active be at Hackathons both as a participant and mentor. In my free time, I love to interact with the folks in teams and communities.
+Let's talk a bit about myself, I am Yash Sehgal and computer science undergrad pursuing engineering from [Medicaps University](https://medicaps.ac.in), Indore (India). I love to contribute to Open Source projects and mentor folks for the same. I am an active be at Hackathons both as a participant and mentor. In my free time, I love to interact with the folks in teams and communities.
 
 - I have been to many Open Source Programs such as DWoC, GSSoC, LGMSoC and Hacktoberfest
 - Also, I have been a part of various tech communities in my college such as [@Codechef Medicaps Chapter](https://www.instagram.com/codechef_medicaps_chapter/) and [@ACM Medicaps Chapter](http://medicaps.hosting.acm.org/)
