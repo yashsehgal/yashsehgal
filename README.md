@@ -12,7 +12,7 @@ Let's talk a bit about myself, I am Yash Sehgal and computer science undergrad p
 - Also, I have been a part of various tech communities in my college such as [@Codechef Medicaps Chapter](https://www.instagram.com/codechef_medicaps_chapter/) and [@ACM Medicaps Chapter](http://medicaps.hosting.acm.org/)
 - I am also maintaining projects under organizations such as [The DesignSystems(@DesignSystemsOSS)](https://www.github.com/DesignSystemsOSS) and [@MUACM](https://www.github.com/muacm)
 - I have been managing various projects related to frontend tools and libraries under [The DesignSystems(@DesignSystemsOSS) Organization]() as the Founding Creator and Lead Developer.
-- Check out [Eccentric Touch](https://www.github.com/DesignSystemsOSS/eccentrictouch) and [GetButtons.io](https://www.github.com/DesignSystemsOSS/getbuttons.io) (Projects under DesignSystemsOSS)
+- Check out [Eccentric Touch](https://www.github.com/DesignSystemsOSS/eccentrictouch) and [GetButtons.io](https://www.github.com/DesignSystemsOSS/getbuttons.io) (2 very cool Projects under DesignSystemsOSS)
 - If you're interested in contributing to our projects and collaborate with community members then join our [Discord Server](https://discord.gg/GpHBdA68fg)
 
 *Let's connect with each other and collaborate to add more value in the community.*
