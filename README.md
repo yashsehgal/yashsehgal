@@ -1,41 +1,40 @@
-## Hey There, I hope you are doing well.
-**I am [Yash Sehgal](https://yashsehgal.github.io/portfolio_v_2), I am a Developer, A Designer and A Former Computer Science Student**
+## Hey Folks :wave: Hope you are doing great :rocket:
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+Welcome to my GitHub Profile, It's great to see you people :)
 
-<div id="social-icons">
-<a href="https://www.linkedin.com/in/yash-sehgal-55b7711a4/" target="_blank" class="footer-icons"><i class="fab fa-linkedin" style="color: rgb(102, 102, 255); font-size: 24px;"></i></a>
-<a href="https://github.com/yashsehgal" target="_blank" class="footer-icons"><i class="fab fa-github" style="font-size: 24px;"></i></a>
-<a href="https://www.instagram.com/sehgalyash_/" target="_blank" class="footer-icons"><i class="fab fa-instagram" style="font-size: 24px;"></i></a>
-<a href="https://twitter.com/YashSeh90869786" target="_blank" class="footer-icons"><i class="fab fa-twitter" style="font-size: 24px;"></i></a>
-<a href="https://www.behance.net/yashsehgaleee3" target="_blank" class="footer-icons"><i class="fab fa-behance" style="font-size: 24px;"></i></a>
-<a href="https://medium.com/@yashsehgal.study" target="_blank" class="footer-icons"><i class="fab fa-medium" style="font-size: 24px;"></i></a>
-<a href="https://dev.to/yashsehgal" target="_blank" class="footer-icons"><i class="fab fa-dev" style="font-size: 24px;"></i></a>
+<div align="center">
+  <img src="banner.png" width="900px" height="100%">
 </div>
 
-<br> <br>
+Let's talk a bit about myself, as this is my profile. I am Yash Sehgal and computer science undergrad pursuing engineering from [Medicaps University](https://medicaps.ac.in), Indore (India). I love to contribute to Open Source projects and mentor folks for the same. I am an active be at Hackathons both as a participant and mentor. In my free time, I love to interact with the folks in teams and communities.
 
-### About Me
-- I am a Computer Science Student who's pursuing a Computer Science Degree in Specialization with Artificial Intelligence (AI)
-- I love to try building projects ⛏️ which can be converted to products and can help other developers or people, in general. I also like to guide people as per the basis of my knowledge, also whether it's about Coding, Software Development, Designing or Blockchain, Crypto-Currency, Neural Networks or NFTs, I will be there in the discussion. 
-- Languages 💻  which I like to work with are as follows: C/C++, Python, JavaScript, HTML, CSS/SCSS.
-- Tools/Technologies 💻  I use on my Daily Basis: Adobe XD, Figma, Git, GitHub/BitBucket, NodeJS.
-- Also, When I am lazy/not working, I love to spend time on FL Studio and make music. Also, I have some decent sketching skills.
-- This is my 🌐 [Personal Portfolio](https://yashsehgal.github.io/portfolio_v_2/)
+- I have been to many Open Source Programs such as DWoC, GSSoC, LGMSoC and Hacktoberfest
+- Also, I have been a part of various tech communities in my college such as [@Codechef Medicaps Chapter](https://www.instagram.com/codechef_medicaps_chapter/) and [@ACM Medicaps Chapter](http://medicaps.hosting.acm.org/)
+- I am also maintaining projects under organizations such as [The DesignSystems(@DesignSystemsOSS)](https://www.github.com/DesignSystemsOSS) and [@MUACM](https://www.github.com/muacm)
+- I have been managing various projects related to frontend tools and libraries under [The DesignSystems(@DesignSystemsOSS) Organization]() as the Founding Creator and Lead Developer.
+- Check out [Eccentric Touch](https://www.github.com/DesignSystemsOSS/eccentrictouch) and [GetButtons.io](https://www.github.com/DesignSystemsOSS/getbuttons.io) (Projects under DesignSystemsOSS)
+- If you're interested in contributing to our projects and collaborate with community members then join our [Discord Server](https://discord.gg/GpHBdA68fg)
 
-### My Experiences
-- Founding Creator and Lead Developer [@The DesignSystems](https://bit.ly/DesignSystemsOSSGitHub). Here we are trying to build a Community of Student/Professional Developers, Designers and those who want to contribute to Open Source Projects. We all are learning new skills & technologies, meeting new like-minded people.
-- Executive Graphic Designer [@CodeChef Medicaps Chapter](https://www.instagram.com/codechef_medicaps_chapter/), Worked on various events and sessions such as Code Medicaps (A Monthly Competitive Programming Contest)
-- Core Member - Frontend Web Developer [@ACM Medicaps Chapter](http://medicaps.acm.org/muacm.org/), Here also I have worked on various events such as Speaker Sessions, Workshops and much more.
-- Participated in Open Source Events such as HacktoberFest, DevScript Winter of Code (DSWOC), GirlScript Summer Of Code (GSSOC).
+*Let's connect with each other and collaborate to add more value in the community.*
 
-![Profile Views](https://camo.githubusercontent.com/cf3a35c98380f85c7a119cf97bcedd65c5e8e26ac76f1dcd47b2d96f7c4bdb95/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7961736873656867616c26636f6c6f723d627269676874677265656e)
+### My Socials are listed below
 
-![yashsehgal's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashsehgal&theme=dracula)
+<div style="display: flex; align-items: center;">
 
-### Some Personal Promotion Now
-- Visit [@The DesignSystems](https://github.com/DesignSystemsOSS) and Try using The [Eccentric Touch](https://designsystemsoss.github.io/eccentrictouch.website.frontend/)
-- Also, We would love to see you as an Open Source Contributor at [The DesignSystems](https://bit.ly/DesignSystemsOSSGitHub), If you are looking to connect with different people who are like-minded as you then surely join 👾 [The DesignSystems Community Server](https://discord.gg/PUG5XZD26r).
-- Follow The DesignSystems on Social Media Platforms to be updated all the time. Follow on [Twitter](https://twitter.com/TDesignSystems) & Follow on [LinkedIn](https://www.linkedin.com/company/designsystemsoss) too. Will see you there 😀
+  [LinkedIn](https://www.linkedin.com/in/sehgalyash/) &bullet;
+  [Twitter](https://twitter.com/YashSeh90869786) &bullet;
+  [GitHub Memory](https://githubmemory.com/@yashsehgal) &bullet;
+  [Instagram](https://www.instagram.com/sehgalyash_/) &bullet;
+  [Website / Portfolio](https://yashsehgal.github.io/portfolio_v_2/) &bullet;
+  [Dev.to @yashsehgal](https://dev.to/yashsehgal) &bullet;
+  [YouTube](https://www.youtube.com/channel/UC23yA3SBkV_ehY4H8VSuNVg)
 
-**Once Again. Have a nice day ahead! 🤗**
+</div>
+
+**My Contribution Status**
+
+<div align="center">
+
+![ContributionStatus](https://activity-graph.herokuapp.com/graph?username=yashsehgal&theme=dracula)
+
+</div>
