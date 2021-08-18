@@ -1,40 +1,29 @@
-## Hey Folks :wave: Hope you are doing great :rocket:
+# Hey people, Hope you are doing good
 
-Welcome to my GitHub Profile, It's great to see you people :)
+## Socials - Get connected
 
-<div align="center">
-  <img src="banner.png" width="900px" height="100%">
-</div>
 
-Let's talk a bit about myself, I am Yash Sehgal and computer science undergrad pursuing engineering from [Medicaps University](https://medicaps.ac.in), Indore (India). I love to contribute to Open Source projects and mentor folks for the same. I love to  be at Hackathons both as a participant and mentor. In my free time, I love to interact with the folks in teams and communities.
 
-- I have been to many Open Source Programs such as DWoC, GSSoC, LGMSoC and Hacktoberfest
-- Also, I have been a part of various tech communities in my college such as [@Codechef Medicaps Chapter](https://www.instagram.com/codechef_medicaps_chapter/) and [@ACM Medicaps Chapter](http://medicaps.hosting.acm.org/)
-- I am also maintaining projects under organizations such as [The DesignSystems(@DesignSystemsOSS)](https://www.github.com/DesignSystemsOSS) and [@MUACM](https://www.github.com/muacm)
-- I have been managing various projects related to frontend tools and libraries under [The DesignSystems(@DesignSystemsOSS) Organization]() as the Founding Creator and Lead Developer.
-- Check out [Eccentric Touch](https://www.github.com/DesignSystemsOSS/eccentrictouch) and [GetButtons.io](https://www.github.com/DesignSystemsOSS/getbuttons.io) (2 very cool Projects under DesignSystemsOSS)
-- If you're interested in contributing to our projects and collaborate with community members then join our [Discord Server](https://discord.gg/GpHBdA68fg)
+## About Me
 
-*Let's connect with each other and collaborate to add more value in the community.*
+- I am passionate about web development (specially frontend) and Open Source.
+- I love to guide/mentor people in stuff related to web development, frontend, basic computer science, and much more
 
-### My Socials are listed below
+## Skills
 
-<div style="display: flex; align-items: center;">
+- Languages - C++, Javascript, Python, HTML, CSS/SCSS
+- Libraries & Frameworks - ReactJS, Vue
+- Tools and Technologies - NPM, Github-Pages, Netlify, Vercel, LayerCI, Storybook, Chromatic
+- Areas for interests - `Web Development`, `Frontend Development`, `UI Design/Development`, `Components & Design Systems`, `Cloud Technologies`, `GitHub Actions`
 
-  [LinkedIn](https://www.linkedin.com/in/sehgalyash/) &bullet;
-  [Twitter](https://twitter.com/YashSeh90869786) &bullet;
-  [GitHub Memory](https://githubmemory.com/@yashsehgal) &bullet;
-  [Instagram](https://www.instagram.com/sehgalyash_/) &bullet;
-  [Website / Portfolio](https://yashsehgal.github.io/portfolio_v_2/) &bullet;
-  [Dev.to @yashsehgal](https://dev.to/yashsehgal) &bullet;
-  [YouTube](https://www.youtube.com/channel/UC23yA3SBkV_ehY4H8VSuNVg)
+## Professional Experience
 
-</div>
+- [The DesignSystems(@DesignSystemsOSS)](https://www.github.com/DesignSystemsOSS) - Working on various projects related to frontend tools and technologies. Helping people to get started with Open Source and do more collaborative work and gain more real-world development experience.
+- [Economize.cloud (@economizecloud)](https://www.github.com/economizecloud) - Worked on economize.cloud dashboard application's UI and frontend. Changed the entire theme and components to light mode. Also, used tools such as Storybook, Chromatic for frontend component management.
 
-**My Contribution Status**
+## Volunteer work
 
-<div align="center">
-
-![ContributionStatus](https://activity-graph.herokuapp.com/graph?username=yashsehgal&theme=dracula)
-
-</div>
+- [Codechef Medicaps Chapter](https://www.instagram.com/codechef_medicaps_chapter/) - Helped the chapter in graphic designing for making content for contests, sessions and events related to competitive coding.
+- [Medicaps University's ACM Chapter](http://medicaps.hosting.acm.org/) - Worked on the website from scratch using ReactJS, and SCSS. Helped in conducting various sessions, bootcamps and events regarding different technologies and domains.
+- Hackathons - Participated, Volunteered and Mentored people in various hackathons conducted by MLH, College/Student Communities and many other companies.
+- Open Source Programs - Contributed to various projects during many Open Source programs such as GSSoC, Hacktoberfest, LGMSoC, DWoC and many others. Also mentored people in contributions too.
