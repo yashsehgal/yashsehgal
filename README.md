@@ -2,7 +2,17 @@
 
 ## Socials - Get connected
 
+<div style="display: flex; align-items: center;">
 
+  [LinkedIn](https://www.linkedin.com/in/sehgalyash/) &bullet;
+  [Twitter](https://twitter.com/YashSeh90869786) &bullet;
+  [GitHub Memory](https://githubmemory.com/@yashsehgal) &bullet;
+  [Instagram](https://www.instagram.com/sehgalyash_/) &bullet;
+  [Website / Portfolio](https://yashsehgal.github.io/portfolio_v_2/) &bullet;
+  [Resume](https://yashsehgal.github.io/portfolio_v_2/static/media/YashSehgal_Resume.8ea9fc10.pdf) &bullet;
+  [YouTube](https://www.youtube.com/channel/UC23yA3SBkV_ehY4H8VSuNVg)
+
+</div>
 
 ## About Me
 
