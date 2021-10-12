@@ -34,6 +34,7 @@
 ## Volunteer work
 - Open Source and Web Development Mentor [@MUGDSC (Medicaps University - Google Developer Student Club)](https://gdsc.community.dev/medi-caps-university-indore/) - Taking sessions and workshops on topics such as Git and GitHub, frontend development. Spreading awareness of technologies offered by Google in the college.
 - [Codechef Medicaps Chapter](https://www.instagram.com/codechef_medicaps_chapter/) - Helped the chapter in graphic designing for making content for contests, sessions and events related to competitive coding.
+- Spoke at various college programs events and sessions on topics such as Open Source, Git and GitHub, Hackthons and Frontend Development.
 - Managed Guilds at MLH Local Hack Day and MLH INIT Hackathons and done internal meetups, workshops and mentorship sessions and managed to get so many people getting involved in the hackathon space.
 - [Medicaps University's ACM Chapter](http://medicaps.hosting.acm.org/) - Worked on the website from scratch using ReactJS, and SCSS. Helped in conducting various sessions, bootcamps and events regarding different technologies and domains.
 - Hackathons - Participated, Volunteered and Mentored people in various hackathons conducted by MLH, College/Student Communities and many other companies.
