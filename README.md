@@ -40,4 +40,4 @@
 - Hackathons - Participated, Volunteered and Mentored people in various hackathons conducted by MLH, College/Student Communities and many other companies.
 - Open Source Programs - Contributed to various projects during many Open Source programs such as GSSoC, Hacktoberfest, LGMSoC, DWoC and many others. Also mentored people in contributions too.
 
-**Feel free to reach me out for -** `Frontend UI Development (Contractorship, Part-time)`
+**Currently open for full-time/intern job roles in frontend development/engineering**
