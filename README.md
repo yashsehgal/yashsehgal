@@ -10,8 +10,9 @@
   [Instagram](https://www.instagram.com/sehgalyash_/) &bullet;
   [Website / Portfolio](https://yashsehgal.com) &bullet;
   [YouTube](https://www.youtube.com/channel/UC23yA3SBkV_ehY4H8VSuNVg)
-
 </div>
+
+- You can mail me at **yashsehgal.work@gmail.com**
 
 ## About Me
 
