@@ -41,3 +41,8 @@ Including this there were multiple screens, components which has to be modified.
 And, of-course, the day Light-Theme PR got merged 🎉🎉
 
 ![finally-merged-msg](screenshots/slack-hurray-message-light-theme.png)
+
+- I have worked on the products alignment features, created Base-Wrappers for components and design system.
+- Worked a lot with Tables and ant-design components.
+- Worked on Login/Signup UI
+- And a bunch of other fixes 🔥
