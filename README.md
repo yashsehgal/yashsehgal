@@ -28,6 +28,7 @@
 
 ## Projects/Libraries
 - **Eccentric Touch** [(DesignSystemsOSS/eccentrictouch)](https://www.github.com/DesignSystemsOSS/eccentrictouch) - It's a utility + component library that can be used in your frontend web-applications. Checkout the [documentation to properly use Eccentric Touch](https://eccentrictouch.thedesignsystems.com).
+- **React Search Smart** [(react-search-smart)](https://www.github.com/yashsehgal/react-search-smart) - It's a light-weight, easy-to-integrate search feature for your projects. You can configure the component by providing data-as-prop and it will generate a complete search functionality for your application, that too with customizability.
 - **React Range Picker Smart** 😎 [(react-range-picker-smart)](https://www.github.com/yashsehgal/react-range-picker-smart) - It's a small react component package used for getting data using range-slider but with more customization. You can add custom input values as well. Use case are found in projects using value-intensive data and require precised-values. Used React for the development. Additional library used [`react-tooltip`](https://www.npmjs.com/package/react-tooltip).
 - **Plain UI Kit** [(plain-ui-kit)](https://www.github.com/yashsehgal/plain-ui-kit) - It's a small design system + component library, the UI designs of which are inspired from Figma. It has a set of components which can used in your application. Such as Header, Input, Button, BrandButtons and other utilities.
 
