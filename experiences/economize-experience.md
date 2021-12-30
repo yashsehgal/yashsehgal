@@ -46,3 +46,23 @@ And, of-course, the day Light-Theme PR got merged 🎉🎉
 - Worked a lot with Tables and ant-design components.
 - Worked on Login/Signup UI
 - And a bunch of other fixes 🔥
+
+## Things I have learned during my internship
+
+### Soft Skills
+
+- As a second year student, managing time for a full-time internship. But somehow, I was able to manage my time for economize (thanks to online classes). I learned how to manage time for the company, personal health, and other things. This was initially not the case but later, with time I managed it.
+- I learned how to professionally communicate with people from company and outside the company. I started being more comfortable with explaining complex-technical issues/features in a simplar manner to others.
+
+### Hard Skills
+
+- First time in my entire life, I saw a code in GoLang (although, I didn't work on that but it was really cool :fire:) - I learned about backend terminologies and processes. How cloud techs are being utilized by the product. How 3 party tools and services are life-saving.
+- I myself spent a lot of time in understanding and creating a decent frontend codebase structure which can be scaled further with no much issues.
+- I used many technologies and tools like: Storybook, Chromatic, Docker, GitPod, ImageKit, Blisk, AWS, VueJS and a bunch of other things.
+
+The learning curve is always HIGH at economize 📈. 
+I Literally had the best 5 months so far. Looking forward to join them full-time as well, as a TEAM!
+
+It was lovely to document my first internship experience. 
+That was from my side. 
+*Have a great day ahead, Reader!*
