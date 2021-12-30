@@ -36,7 +36,7 @@
 ## Professional Experience
 
 - [The DesignSystems(@DesignSystemsOSS)](https://www.github.com/DesignSystemsOSS) - Working on various projects related to frontend tools and technologies. Helping people to get started with Open Source and do more collaborative work and gain more real-world development experience.
-- Currently contributing to [FLINT-UI](https://github.com/moja-global/FLINT-UI) project under [@moja-global](https://github.com/moja-global). You can read about my working experience [here](experience/moja-global-experience.md).
+- Currently contributing to [FLINT-UI](https://github.com/moja-global/FLINT-UI) project under [@moja-global](https://github.com/moja-global). You can read about my working experience [here](experiences/moja-global-experience.md).
 - [Economize.cloud (@economizecloud)](https://www.github.com/economizecloud) - Worked on economize.cloud dashboard application's UI and frontend. Changed the entire theme and components to light mode. Also, used tools such as Storybook, Chromatic for frontend component management. You can checkout about my experience at economize [here](experiences/economize-experience.md)
 
 ## Volunteer work
