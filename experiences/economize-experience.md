@@ -56,7 +56,7 @@ And, of course, the day Light-Theme PR got merged 🎉🎉
 
 ### Hard Skills
 
-- For the first time in my entire life, I saw a code in GoLang (although, I didn't work on that) - I learned about backend terminologies and processes. How cloud techs are being utilized by the product. How 3 party tools and services are life-saving.
+- For the first time in my entire life, I saw a code in GoLang (although, I didn't work on that) - I learned about backend terminologies and processes. How cloud techs are being utilized by the product. How 3rd party tools and services are life-saving.
 - I spent a lot of time understanding and creating a decent frontend codebase structure that can be scaled further with not many issues.
 - I used many technologies and tools like Storybook, Chromatic, Docker, GitPod, ImageKit, Blisk, AWS, VueJS, and a bunch of other things.
 
