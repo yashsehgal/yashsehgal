@@ -51,7 +51,7 @@ And, of course, the day Light-Theme PR got merged 🎉🎉
 
 ### Soft Skills
 
-- As a second-year student, managing time for a full-time internship. But somehow, I was able to manage my time to economize (thanks to online classes). I learned how to manage time for the company, personal health, and other things. This was initially not the case but later, with time I managed it.
+- As a second-year student, managing time for a full-time internship was tough. But somehow, I was able to manage my time to economize (thanks to online classes). I learned how to manage time for the company, personal health, and other things. This was initially not the case but later, with time I managed it.
 - I learned how to professionally communicate with people from the company and outside the company. I started being more comfortable with explaining complex-technical issues/features in a simpler manner to others.
 
 ### Hard Skills
