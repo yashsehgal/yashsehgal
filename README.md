@@ -8,7 +8,7 @@
   [Twitter](https://twitter.com/yashsehgaldev) &bullet;
   [GitHub Memory](https://githubmemory.com/@yashsehgal) &bullet;
   [Instagram](https://www.instagram.com/sehgalyash_/) &bullet;
-  [Website / Portfolio](https://yashsehgal.com) &bullet;
+  [Website / Portfolio](https://yashsehgal.notion.site/yashsehgal-e408313280ad4f9aa5f5cc4b4672540f) &bullet;
   [YouTube](https://www.youtube.com/channel/UC23yA3SBkV_ehY4H8VSuNVg)
 </div>
 
