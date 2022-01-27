@@ -29,6 +29,7 @@
 
 ## Projects/Libraries
 - **Eccentric Touch** [**(DesignSystemsOSS/eccentrictouch)**](https://www.github.com/DesignSystemsOSS/eccentrictouch) - It's a utility + component library that can be used in your frontend web-applications. Checkout the [documentation to properly use Eccentric Touch](https://eccentrictouch.thedesignsystems.com).
+- **React Pluto Components** [**(react-pluto)**](https://www.github.com/yashsehgal/react-pluto) - It's a small, minimal and light weight component library with a design system which can be utilizd by your React projects. It has components like Text, Heading, Cards, Elevations and much more that are minimal and widely used by web-applications. You can checkout the [documentation to use React Pluto](https://react-pluto.yashsehgal.com/).
 - **React Search Smart** [**(react-search-smart)**](https://www.github.com/yashsehgal/react-search-smart) - It's a light-weight, easy-to-integrate search feature for your projects. You can configure the component by providing data-as-prop and it will generate a complete search functionality for your application, that too with customizability.
 - **React Range Picker Smart** 😎 [**(react-range-picker-smart)**](https://www.github.com/yashsehgal/react-range-picker-smart) - It's a small react component package used for getting data using range-slider but with more customization. You can add custom input values as well. Use cases are found in projects using value-intensive data and require precise values. Used React for the development. Additional library used [`react-tooltip`](https://www.npmjs.com/package/react-tooltip).
 - **Plain UI Kit** [**(plain-ui-kit)**](https://www.github.com/yashsehgal/plain-ui-kit) - It's a small design system + component library, the UI designs of which are inspired from Figma. It has a set of components that can be used in your application. Such as Header, Input, Button, BrandButtons, and other utilities.
@@ -37,6 +38,7 @@
 ## Professional Experience
 
 - [The DesignSystems(@DesignSystemsOSS)](https://www.github.com/DesignSystemsOSS) - Working on various projects related to frontend tools and technologies. Helping people to get started with Open Source do more collaborative work and gain more real-world development experience.
+- Contributing to [AsyncAPI's Design System](https://www.asyncapi.com/) as a designer and helping them build a UI Kit (Component library) for their toolings.
 - Currently contributing to [FLINT-UI](https://github.com/moja-global/FLINT-UI) project under [@moja-global](https://github.com/moja-global). You can read about my working experience [here](experiences/moja-global-experience.md).
 - [Economize.cloud (@economizecloud)](https://www.github.com/economizecloud) - Worked on economize.cloud dashboard application's UI and frontend. Changed the entire theme and components to light mode. Also, used tools such as Storybook, Chromatic for frontend component management. You can check out my experience at economize [here](experiences/economize-experience.md)
 
