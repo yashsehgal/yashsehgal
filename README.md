@@ -22,6 +22,7 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 - My work experience
-  - 🟢 Working as a product design contributor at [AsyncAPI Initiative](https://asyncapi.com)
+  - 🟢 Working on building better projects and tech-community at [HEKORS Community](https://github.com/hekors)
+  - 🟡 Working as a product design contributor at [AsyncAPI Initiative](https://asyncapi.com)
   - 🔴 Curated and Development a CSS Library called [Eccentric Touch](https://eccentrictouch.thedesignsystems.com)
   - 🔴 Worked as Frontend Software Developer Intern at [economize.cloud](https://economize.cloud)
