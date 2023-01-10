@@ -5,14 +5,13 @@
 - ♂️ Pronouns (He/His/Him)
 - 📍 I live in Indore, India
 - I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS.
-- I usually work with design systems and ui-component based react projects and make complex and beautiful components.
 - I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
 - My Design Systems Tech Stack: ReactJS, TailwindCSS, Storybook, Figma #RTSF
-- Languages I know: Javascript, Python, C/C++, Java, SQL, HTML, CSS/SCSS
+- Languages I know: Javascript, Python, C/C++, HTML, CSS/SCSS
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-- My socials are listed below
+- 💬 My socials are listed below
   - Twitter at [yashsehgaldev](https://twitter.com/yashsehgaldev)
   - Instagram at [sehgalyash_](https://instagram.com/sehgalyash_)
   - LinkedIn at [sehgalyash](https://linkedin.com/in/sehgalyash)
@@ -21,7 +20,8 @@
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-- My work experience
+- 💻 My work experience
+  - 🟢 Working as a Software Engineer at [ClampHQ](https://joinclamp.com)
   - 🟢 Working on building better projects and tech-community at [HEKORS Community](https://github.com/hekors)
   - 🟡 Working as a product design contributor at [AsyncAPI Initiative](https://asyncapi.com)
   - 🔴 Curated and Development a CSS Library called [Eccentric Touch](https://eccentrictouch.thedesignsystems.com)
