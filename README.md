@@ -1,5 +1,7 @@
 **Hey, I am Yash Sehgal ⚡️**
 
+![gh-profile-banner](/media/gh-profile-banner.png)
+
 - ♂ He/Him/His 📍 Living in Indore, India
 - I work as a design-centric-frontend-heavy software engineer. Mostly using React, TailwindCSS, Typescript.
 - Interested in Product Design, Design Systems Engineering, UI Engineering and Web-accessibility.
