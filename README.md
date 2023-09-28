@@ -8,14 +8,14 @@
 - Wanna catch-up? Schedule a meet with me at [cal.com/yashsehgal](https://cal.com/yashsehgal)
 - General mails at yashsehgal.work@gmail.com
 
-### Work experience
+**Work experience**
 
 - Carpenter at [dunolabs](https://github.com/dunolabs), Managing everything technical.
 - Contributed actively to [AsyncAPI Initiative](https://asyncapi.com) as a Frontend Developer during [AsyncAPI Initiative's Mentorship Program 2022](https://github.com/orgs/asyncapi/discussions/376)
 - Worked as a Software Engineering Intern at [Clamp](https://joinclamp.com)
 - Worked as a Software Engineering Intern at [economize.cloud](https://economize.cloud)
 
-### Projects and showcase
+**Projects and showcase**
 
 - Created a landing-page similar to GitHub-website at [github.com/home](https://github.com/home). Check at [yashsehgal/github-landing](https://github.com/yashsehgal/github-landing)
 - Frequently adding frontend components to my crafts, check crafts at [crafts.yashsehgal.com](https://crafts.yashsehgal.com/)
@@ -26,6 +26,6 @@
 - Made a small project for re-creating some of the UI components from Twitter Web-application. See the designs on [Figma](https://www.figma.com/file/jQPz0SxTB6OfuifQYRehet/Twitter-inspired-Design-System?node-id=0%3A1). Checkout the code on [GitHub](https://github.com/yashsehgal/twitter-ui-kit) and [live deployment](https://twitter-ui-kit.vercel.app/)
 - Worked on a side-project, A CSS Library called Eccentric Touch. Learn more at [eccentrictouch-docs](http://eccentrictouch.thedesignsystems.com)
 
-### Socials
+**Socials**
 
 [Twitter/yashsehgaldev](https://twitter.com/yashsehgaldev) &bullet; [LinkedIn/sehgalyash](https://linkedin.com/in/sehgalyash) &bullet; [Instagram/sehgalyash_](https://instagram.com/sehgalyash_) &bullet; [Website/yashsehgal.com](https://yashsehgal.com) &bullet; [Peerlist/yashsehgaldev](https://peerlist.io/yashsehgaldev) &bullet; [Meetings at cal.com/yashsehgal](https://cal.com/yashsehgal)
