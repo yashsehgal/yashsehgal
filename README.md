@@ -10,7 +10,8 @@
 
 **Work experience**
 
-- Carpenter at [dunolabs](https://github.com/dunolabs), Managing everything technical.
+- Ex-engineering intern at [GitHub](https://github.com/github) (Under contract with Denave India Pvt. Ltd.)
+- Managed Engineering at [dunolabs](https://github.com/dunolabs), Managing everything technical.
 - Contributed actively to [AsyncAPI Initiative](https://asyncapi.com) as a Frontend Developer during [AsyncAPI Initiative's Mentorship Program 2022](https://github.com/orgs/asyncapi/discussions/376)
 - Worked as a Software Engineering Intern at [Clamp](https://joinclamp.com)
 - Worked as a Software Engineering Intern at [economize.cloud](https://economize.cloud)
