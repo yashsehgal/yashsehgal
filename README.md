@@ -18,6 +18,7 @@
 
 **Projects and showcase**
 
+- Working on a community management platform called [Communal](https://github.com/Communal). Building the design system/UI Kit for frontend, called [Craftbook](https://github.com/Communal/craftbook).
 - Created a landing-page similar to GitHub-website at [github.com/home](https://github.com/home). Check at [yashsehgal/github-landing](https://github.com/yashsehgal/github-landing)
 - Frequently adding frontend components to my crafts, check crafts at [crafts.yashsehgal.com](https://crafts.yashsehgal.com/)
 - Re-implemented a small shorthand text completion feature, used for sharing links and efficient chatting. Inspired from [Peerlist's Shorthand Feature](https://twitter.com/peerlisthq/status/1625725088195649537?s=61&t=lKD0ACc89qYa3erXFqbuXw). See my implementation [here](http://peerlist-shorthand-feature.vercel.app)
