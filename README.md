@@ -18,6 +18,7 @@
 
 **Projects and showcase**
 
+- Re-designed the landing page for Stack AI. Check out the [live deployment here](https://stack-ai-redesign.vercel.app/).
 - Working on a community management platform called [Communal](https://github.com/Communal). Building the design system/UI Kit for frontend, called [Craftbook](https://github.com/Communal/craftbook).
 - Created a landing-page similar to GitHub-website at [github.com/home](https://github.com/home). Check at [yashsehgal/github-landing](https://github.com/yashsehgal/github-landing)
 - Frequently adding frontend components to my crafts, check crafts at [crafts.yashsehgal.com](https://crafts.yashsehgal.com/)
