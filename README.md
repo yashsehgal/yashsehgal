@@ -1,6 +1,6 @@
 **Hey, I am Yash Sehgal ⚡️**
 
-![gh-profile-banner](/media/gh-profile-banner.png)
+![image](https://github.com/yashsehgal/yashsehgal/assets/62352288/424b2452-6b39-4832-96cd-e7d450fa5887)
 
 - ♂ He/Him/His 📍 Living in Indore, India
 - I work as a design-centric-frontend-heavy software engineer. Mostly using React, TailwindCSS, Typescript.
