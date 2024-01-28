@@ -25,7 +25,6 @@
 
 **Writings**
 - Have written a tutorial blog on Understanding and Getting-started with Design Systems. Give it a read [here](https://yashsehgal.notion.site/Getting-started-with-Design-Systems-Engineering-00f9639dd68f4fd79701eb72ca5a1fec)
-- Worked on a side-project, A CSS Library called Eccentric Touch. Learn more at [eccentrictouch-docs](http://eccentrictouch.thedesignsystems.com)
 
 **Socials**
 
