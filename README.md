@@ -1,32 +1,11 @@
+I am a design engineer passionate about working with React and TypeScript. My interests lie in crafting and sharing design systems, implementing enterprise-level applications, and experimenting with playful components using TailwindCSS.
 
-![image](https://github.com/yashsehgal/yashsehgal/assets/62352288/5e935695-b4a8-424f-aed6-e63b6883809b)
+My recent experience was as a frontend design engineer at [Rocketium](https://rocketium.com), where I contributed to building Hydrogen, an internal design system powered by React, TypeScript, and [Mantine UI](https://mantine.dev). Hydrogen serves as a wrapper design system built with Mantine UI and custom components. I optimized components for faster rendering, introduced micro-interactions and animations using [Framer Motion](https://framer.com/motion), and participated in the Rocketium 2.0 project, redesigning enterprise-facing features and implementing a dynamic island feature to provide contextual suggestions across the platform.
 
-- ♂ He/Him 📍 Living in Indore, India
-- I work as a design-centric-frontend-heavy software engineer. Mostly using React, TailwindCSS, Typescript.
-- Interested in Product Design, Design Systems Engineering, UI Engineering and Web-accessibility.
-- Wanna catch-up? Schedule a meet with me at [cal.com/yashsehgal](https://cal.com/yashsehgal)
-- General mails at yashsehgal.work@gmail.com
+I occasionally write and publish reusable components on my UI kit project, [Cookies](https://usecookies.vercel.app).
 
-**Work experience**
+During my pre-final year of college, I interned at [GitHub](https://github.com/home) as an Engineering Intern. I developed an internal tool for generating QR codes for GitHub events and promotional content using [GitHub short URL](https://gh.io). This tool was built with React, TypeScript, and Fastify, and was secured via Okta. I also contributed to landing pages for internal tools and educational events, including [Octogatosconf](https://octogatosconf.com).
 
-- Frontend Software Engineer at [Rocketium](https://rocketium.com/)
-- Ex-engineering intern at [GitHub](https://github.com/github) (Under contract with Denave India Pvt. Ltd.)
-- Managed Engineering at [dunolabs](https://github.com/dunolabs), Managing everything technical.
-- Contributed actively to [AsyncAPI Initiative](https://asyncapi.com) as a Frontend Developer during [AsyncAPI Initiative's Mentorship Program 2022](https://github.com/orgs/asyncapi/discussions/376)
-- Worked as a Software Engineer at [Clamp](https://joinclamp.com)
-- Worked as a Software Engineering Intern at [economize.cloud](https://economize.cloud)
+In previous internships and roles, I worked extensively on building design systems and reusable components, designing and implementing landing pages with a focus on design quality and accessibility, and leveraging TypeScript effectively for robust component development.
 
-**Project and experiments**
-
-- [Stack AI Website Redesign](https://stack-ai-redesign.vercel.app/) - Worked on this project as an assignment for the Design Engineering Role.
-- [Communal](https://github.com/Communal) and [Craftbook](https://github.com/Communal/craftbook) - Working on a community management platform idea. Building the design system/UI Kit for frontend, called Craftbook.
-- [GitHub Landing Page Redesign](https://github.com/yashsehgal/github-landing) - Created a landing-page similar to GitHub-website at [github.com/home](https://github.com/home).
-- [Crafts](https://crafts.yashsehgal.com/) - Frequently adding frontend components to my crafts.
-- [HEKORS Community Website Design](https://www.figma.com/file/jW2MWJ0uw6rjRHJgyyKNjv/HEKORS-Website-UI?node-id=1%3A2&t=TPRHKFjmLJXGV2Fx-1) - Designed and implemented a complete community website for [HEKORS](https://github.com/hekors) — Used NextJS, Tailwind, Typescript.
-
-**Writings**
-- Have written a tutorial blog on Understanding and Getting-started with Design Systems. Give it a read [here](https://yashsehgal.notion.site/Getting-started-with-Design-Systems-Engineering-00f9639dd68f4fd79701eb72ca5a1fec)
-
-**Socials**
-
-[Twitter/yashsehgaldev](https://twitter.com/yashsehgaldev) &bullet; [LinkedIn/sehgalyash](https://linkedin.com/in/sehgalyash) &bullet; [Instagram/sehgalyash_](https://instagram.com/sehgalyash_) &bullet; [Website/yashsehgal.com](https://yashsehgal.com) &bullet; [Peerlist/yashsehgaldev](https://peerlist.io/yashsehgaldev) &bullet; [Meetings at cal.com/yashsehgal](https://cal.com/yashsehgal)
+In my free time, I enjoy building side projects, creating intricate components, and documenting the engineering process on my [personal website](https://yashsehgal.com).
