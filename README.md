@@ -1,6 +1,6 @@
 I am a design engineer passionate about working with React and TypeScript. My interests lie in crafting and sharing design systems, implementing enterprise-level applications, and experimenting with playful components using TailwindCSS.
 
-Currently, I am working as a design/frontend software engineer at [Stack AI](https://stack.ai).
+Currently, I am working as a design/frontend engineer at [Stack AI](https://stack.ai).
 
 My previous experience was as a frontend design engineer at [Rocketium](https://rocketium.com), where I contributed to building Hydrogen, an internal design system powered by React, TypeScript, and [Mantine UI](https://mantine.dev). Hydrogen serves as a wrapper design system built with Mantine UI and custom components. I optimized components for faster rendering, introduced micro-interactions and animations using [Framer Motion](https://framer.com/motion), and participated in the Rocketium 2.0 project, redesigning enterprise-facing features and implementing a dynamic island feature to provide contextual suggestions across the platform.
 
