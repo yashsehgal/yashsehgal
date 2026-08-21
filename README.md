@@ -1,3 +1,5 @@
+
+
 I am a design engineer passionate about working with React and TypeScript. My interests lie in crafting and sharing design systems, implementing enterprise-level applications, and experimenting with playful components using TailwindCSS.
 
 My recent work experience was at [Stack AI](https://stack.ai) as a design/frontend engineer.
@@ -8,6 +10,6 @@ I occasionally write and publish reusable components on my UI kit project, [Cook
 
 During my pre-final year of college, I interned at [GitHub](https://github.com/home) as an Engineering Intern. I developed an internal tool for generating QR codes for GitHub events and promotional content using [GitHub short URL](https://gh.io). This tool was built with React, TypeScript, and Fastify, and was secured via Okta. I also contributed to landing pages for internal tools and educational events, including [Octogatosconf](https://octogatosconf.com).
 
-In previous internships and roles, I worked extensively on building design systems and reusable components, designing and implementing landing pages with a focus on design quality and accessibility, and leveraging TypeScript effectively for robust component development.
+In previous internships and roles, including [economize.cloud](https://economize.cloud), I worked extensively on building design systems and reusable components, designing and implementing landing pages with a focus on design quality and accessibility, and leveraging TypeScript effectively for robust component development.
 
 In my free time, I enjoy building side projects, creating intricate components, and documenting the engineering process on my [personal website](https://yashsehgal.com).
